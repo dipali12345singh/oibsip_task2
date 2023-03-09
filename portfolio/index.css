@@ -1,0 +1,50 @@
+.fa{
+    font-size: 40px;
+    margin-left: 38%;
+}
+
+#nav{
+    background-color: black;
+    position: fixed;
+}
+body{
+    margin: 0;
+}
+.menu-bar{
+    text-align: center;
+}
+#complete{
+    display: flex;
+    background-color:black;
+    color:white;
+}
+#main{
+   margin-left: 12%;
+}
+h2{
+    text-align: center;
+}
+#about2{
+    display: flex;
+}
+#skill1{
+    margin-left: 27%;
+    font-size: 18px;
+}
+#skill2{
+    font-size: 20px;
+    margin-left: 10%;
+}
+.same{
+   background-color:white;
+}
+#skill2 p{
+    font-size: 16px;
+}
+#project h5{
+    font-size: 20px;
+}
+.w3{
+    margin-top: 24%;
+}
+
